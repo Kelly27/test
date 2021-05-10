@@ -1,7 +1,2 @@
-line1
-textfile2 near start
-line2
-line3
-chg on same file
-try again bah
-textfile1
+master
+master1
