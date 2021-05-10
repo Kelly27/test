@@ -1,2 +1,3 @@
 INIT FEATURE
 F1
+F2
